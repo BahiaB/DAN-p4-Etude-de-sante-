@@ -11,9 +11,9 @@ Etude de santé publique portant sur le faim dans le monde, on se base sur les d
 
 Les données :
 
-aide_alimentaire = données brutes obetenues sur le site de la FAO.  
-cereales = données brutes obetenues sur le site de la FAO. 
-dispo_alimentaire = données brutes obetenues sur le site de la FAO. 
-population = données brutes obetenues sur le site de la FAO. 
-sous_nutrition = données brutes obetenues sur le site de la FAO. 
+aide_alimentaire = données brutes obetenues sur le site de la FAO.    
+cereales = données brutes obetenues sur le site de la FAO.  
+dispo_alimentaire = données brutes obetenues sur le site de la FAO.  
+population = données brutes obetenues sur le site de la FAO.  
+sous_nutrition = données brutes obetenues sur le site de la FAO.  
  
